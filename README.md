@@ -1,18 +1,21 @@
-## Getting Started
+# PC Part Inventory Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the PC Part Inventory Management System project! This project aims to create a simple Java application for managing inventory data of PC parts.
 
-## Folder Structure
+## Project Overview
 
-The workspace contains two folders by default, where:
+This project is a work in progress, developed as part of learning Java programming language. It currently provides basic functionality to display information about PC parts, such as ID, name, brand, quantity, and price, in a JavaFX GUI.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Display information about PC parts
+- Basic GUI interface using JavaFX
+- Simple data model for representing PC parts
+- Support for displaying images along with part details (work in progress)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Usage
 
-## Dependency Management
+To run the application, simply execute the `App.java` file. Make sure you have Java Development Kit (JDK) installed on your system.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+java App.java
