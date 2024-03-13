@@ -56,7 +56,7 @@ public class App extends Application {
         primaryStage.setScene(scene);
         
         // Set the title of the primary stage
-        primaryStage.setTitle("PC Component Inventory");
+        primaryStage.setTitle("PC Part Inventory Management");
         
         // Show the primary stage
         primaryStage.show();
